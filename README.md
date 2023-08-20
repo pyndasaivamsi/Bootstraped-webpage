@@ -5,7 +5,7 @@ Project is hosted here --> https://pyndasaivamsi.github.io/Bootstraped-webpage/
 This is a responsive webpage made using Bootstrap
 
 The viewport of different screen sizes are as follows:
-## Large and above screens
+## Large and Above screens
 ![desktop](https://user-images.githubusercontent.com/97884235/177115320-4b471065-1f15-4299-924d-6acc5b617da0.png)
 
 ## Medium screens
